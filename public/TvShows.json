@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Breaking Bad",
+        "season": 5,
+        "genre": "Crime Thriller",
+        "img": "https://fiverr-res.cloudinary.com/videos/t_main1,q_auto,f_auto/kzdkufubqeag5zcs2h2d/make-breaking-bad-title-for-your-name.png",
+        "budget": 9000000,
+        "viewers": "100M"
+    },
+    {
+        "id": 2,
+        "name": "Game of Thrones",
+        "season": 8,
+        "genre": "Fantasy, Serial Drama, Tragedy",
+        "img": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_FMjpg_UX1000_.jpg",
+        "budget": 1200000,
+        "viewers": "102M"
+    },
+    {
+        "id": 3,
+        "name": "Prison Break",
+        "season": 5,
+        "genre": "Serial Crime Drama",
+        "img": "https://i.pinimg.com/originals/ac/a3/fc/aca3fcb04674a20218704937513301e6.jpg",
+        "budget": 7000000,
+        "viewers": "9.4M"
+    },
+    {
+        "id": 4,
+        "name": "Vikings",
+        "season": 6,
+        "genre": "War, Historical Drama",
+        "img": "https://www.orcasound.com/wp-content/uploads/2019/02/vikings-season-2.jpg",
+        "budget": 8000000,
+        "viewers": "6M"
+    },
+    {
+        "id": 5,
+        "name": "Son of Anarchy",
+        "season": 7,
+        "genre": "Action Crime Drama",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb9haV1XJDDBzOZvvEqZGPg4fG4jsc8CcfDlFZqf7PRezc9-KpYZLxST3ul5axB-bOSuY&usqp=CAU",
+        "budget": 6000000,
+        "viewers": "4.9M"
+    },
+    {
+        "id": 6,
+        "name": "Chernobyl",
+        "season": 1,
+        "genre": "Tragedy",
+        "img": "https://m.media-amazon.com/images/I/81RjtiLoicL._AC_SY355_.jpg",
+        "budget": 3500000,
+        "viewers": "5.8M"
+    },
+    {
+        "id": 7,
+        "name": "Ozark",
+        "season": 3,
+        "genre": "Crime Drama",
+        "img": "https://m.media-amazon.com/images/M/MV5BODIyNzk5NDg5M15BMl5BanBnXkFtZTgwMTE5NjA5MjI@._V1_FMjpg_UX1000_.jpg",
+        "budget": 7500000,
+        "viewers": "6M"
+    },
+    {
+        "id": 8,
+        "name": "Better Call Saul",
+        "season": 5,
+        "genre": "Crime Drama",
+        "img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Better_Call_Saul_Season_4.jpg/220px-Better_Call_Saul_Season_4.jpg",
+        "budget": 7000000,
+        "viewers": "40M"
+    },
+    {
+        "id": 9,
+        "name": "Queens Gambit",
+        "season": 1,
+        "genre": "Period Drama",
+        "img": "https://m.media-amazon.com/images/M/MV5BM2EwMmRhMmUtMzBmMS00ZDQ3LTg4OGEtNjlkODk3ZTMxMmJlXkEyXkFqcGdeQXVyMjM5ODk1NDU@._V1_.jpg",
+        "budget": 3000000,
+        "viewers": "62M"
+    },
+    {
+        "id": 10,
+        "name": "Peaky Blinders",
+        "season": 6,
+        "genre": "Historical Crime Drama",
+        "img": "https://image.api.playstation.com/vulcan/ap/rnd/202007/1616/5Hr8sqlLbl8bXXzaxx6vIdRg.jpg",
+        "budget": 8500000,
+        "viewers": "16M"
+    },
+    {
+        "id": 11,
+        "name": "The Walking Dead",
+        "season": 10,
+        "genre": "Horror Drama",
+        "img": "https://m.media-amazon.com/images/M/MV5BZmU5NTcwNjktODIwMi00ZmZkLTk4ZWUtYzVjZWQ5ZTZjN2RlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+        "budget": 9500000,
+        "viewers": "70M"
+    },
+    {
+        "id": 12,
+        "name": "SEE",
+        "season": 2,
+        "genre": "Action Adventure",
+        "img": "https://m.media-amazon.com/images/M/MV5BYWI2ZmM5ZTgtOTgxYS00MTQ4LThkMjQtZjBlNGM3NjQ5YTI5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "budget": 6500000,
+        "viewers": "15M"
+    }
+]
